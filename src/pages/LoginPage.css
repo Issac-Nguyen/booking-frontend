@@ -1,0 +1,8 @@
+.page {
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.form-login {
+    padding-top: 10rem;
+}

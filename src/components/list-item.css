@@ -1,0 +1,14 @@
+.booking-item {
+    padding: 10px;
+}
+
+.booking-item:hover {
+    background-color: green;
+    color: #fff;
+    box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+    cursor: pointer;
+}
+
+.booking-item .propose-date ul {
+    list-style: none;
+}

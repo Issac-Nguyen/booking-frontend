@@ -1,0 +1,12 @@
+export const REQUEST_BEGIN = 'REQUEST_BEGIN';
+export const REQUEST_RECEIVED = 'REQUEST_RECEIVED';
+export const REQUEST_FAILED = 'REQUEST_FAILED';
+export const PAGE_SELECTED = 'PAGE_SELECTED';
+export const ITEM_SELECTED = 'ITEM_SELECTED'
+export const MODAL_OPEN = 'MODAL_OPEN'
+export const MODAL_CLOSE = 'MODAL_CLOSE'
+export const SPIN_SHOW = 'SPIN_SHOW'
+export const SPIN_HIDE = 'SPIN_HIDE'
+export const ERROR = 'ERROR'
+export const PAGE_CHANGE = 'PAGE_CHANGE'
+export const TOTAL_PAGE = 'TOTAL_PAGE'
